@@ -1,0 +1,124 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .middle-bar-cta{
+        display: none
+    }
+    .section-heading{
+        width: 100%
+    }
+    .product-button > a{
+        padding: 5px 8px
+    }
+    
+}
+@media only screen and (max-width: 767px) { 
+    .top-bar-left{
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .top-bar-right > ul{
+        text-align: center;
+        float: none;
+        margin-top: 10px;
+        padding-bottom: 10px
+    }
+    .middle-bar-cta{
+        display: none
+    }
+    .section-heading{
+        width: 100%
+    }
+    .section-heading > h2{
+        font-size: 28px
+    }
+    .about-page-left{
+        margin-bottom: 30px
+    }
+    .pagination{
+        margin: 40px 0 0
+    }
+    
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    .top-bar-left{
+        text-align: center;
+    }
+    .top-bar-right > ul{
+        text-align: center;
+        float: none;
+        padding-bottom: 10px;
+    }
+    .middle-bar-cta{
+        display: none
+    }
+    .section-heading{
+        width: 100%
+    }
+    .section-heading > h2{
+        font-size: 28px
+    }
+    .pagination{
+        margin: 40px 0 0
+    }
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    .navbar-default ul.nav > li > a{
+        padding: 17px 15px;
+    }
+    .cta-area{
+        margin-right: 10px;
+    }
+    .cta-icon{
+        margin-top: 0;
+        font-size: 20px;
+        margin-right: 10px;
+        line-height: 0;
+    }
+    .cta-area h4{
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width: 1200px){
+    .navbar-collapse{
+        padding: 0;
+    }
+}
+@media only screen and (max-width: 480px){
+    /*.carousel-inner .hero{
+        display: none;
+    }*/
+}
+@media only screen and (max-width: 992px){
+    .social-links ul{
+        text-align: center;
+    }
+    .services .media{
+        text-align: center;
+    }
+    .services .media-left{
+        display: block;
+        padding-right: 0;
+        padding-bottom: 20px;
+    }
+    .services .media-body{
+        width: auto;
+    }
+    .blank-seciton{
+        display: none;
+    }
+    .blog-area .media-left{
+        display: block;
+        padding-right: 0px;
+    }
+    .blog-area .media-heading{
+        padding-top: 10px;
+    }
+    .hero h1 {
+        font-size: 25px;
+        line-height: 36px;  
+    }
+    .hero{
+        left: 42%;
+    }
+}

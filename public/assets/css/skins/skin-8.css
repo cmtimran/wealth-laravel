@@ -1,0 +1,84 @@
+/*
+************************ ************************ ************************
+Template Name: Nirmaan || Building and Construction Website Template
+Author: Manish Soni
+Version: 1.0
+Template By: DsignCamp
+************************ ************************ *************************/
+
+
+/* PRIMARY BG COLOR */
+.social-links a,
+.main-navigation-content ul li a.quote,
+.fade-carousel .carousel-indicators > li.active,
+.carousel-inner .read-more a.dark:hover,
+.owl-prev,
+.owl-next,
+.user-pic,
+.footer-widget-area .widget-title:before,
+.newsletter .btn-default,
+.newsletter .btn-default:focus,
+.blog-pagging > li > a,
+.go-to-top:hover,
+.go-to-top:focus,
+.section-yellow,
+.spinner-wrapper,
+.top-bar-right li a.quote,
+.read-more a,
+.owl-dots .owl-dot.active span, 
+.owl-dots .owl-dot:hover span,
+.widget-area a:hover, 
+.widget-area ul li.active > a,
+.team-details li i,
+.blog-widget button,
+.popular-tags a:hover,
+.input-fields .form-submit,
+.quote-form input[type=submit],
+.newsletter-sec,
+.services .media-left span{
+	background-color: #ab2c67;
+}
+
+
+/* PRIMARY TEXT COLOR */
+.cta-icon,
+.designation,
+.blog-meta p i,
+.blog-head a:hover,
+.breadcrumb-area ul li a,
+.portfolioFilter a.current,
+.broucher-item i,
+.team-details li:hover,
+.blog-widget a:hover,
+.category li a:hover span,
+.address-icon,
+.team-detail h4 a:hover,
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus,
+.navbar-default ul.nav ul.dropdown-menu li a:hover, 
+.navbar-default ul.nav ul.dropdown-menu li a:focus,
+.navbar-default ul.nav > li > a:hover,
+.navbar-default ul.nav > li > a:focus,
+.text-yellow,
+.address-icon i,
+.input-fields a:hover,
+.about-img,
+ul.about-list-items li::before,
+.footer-top a:hover{
+	color: #ab2c67;
+}
+
+
+
+/* BORDER COLOR */
+.section-heading span.divider,
+.fade-carousel .carousel-indicators > li.active,
+.services .media-left span,
+.blog-content blockquote,
+.widget-title span.divider,
+.team-details li i,
+.blog-pagging > li > a,
+.speciality,
+.owl-carousel-1 .item a:hover{
+	border-color: #ab2c67;
+}
