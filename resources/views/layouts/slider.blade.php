@@ -12,7 +12,7 @@
                     <p data-animation="animated fadeInDown"></p>
                 </div>
                 <div class="read-more">
-                    <a href="about.php" class="">ABOUT US</a>
+                    <a href="about" class="">ABOUT US</a>
                 </div>
             </div>
         </div>
@@ -26,7 +26,7 @@
                     <p data-animation="animated fadeInDown"></p>
                 </div>
                 <div class="read-more">
-                    <a href="about.php" class="">ABOUT US</a>
+                    <a href="about" class="">ABOUT US</a>
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@
                     <p data-animation="animated fadeInDown"></p>
                 </div>
                 <div class="read-more">
-                    <a href="about.php" class="">ABOUT US</a>
+                    <a href="about" class="">ABOUT US</a>
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@
                     <p data-animation="animated fadeInDown"></p>
                 </div>
                 <div class="read-more">
-                    <a href="about.php" class="">ABOUT US</a>
+                    <a href="about" class="">ABOUT US</a>
                 </div>
             </div>
         </div>
@@ -68,7 +68,7 @@
                     <p data-animation="animated fadeInDown"></p>
                 </div>
                 <div class="read-more">
-                    <a href="about.php" class="">ABOUT US</a>
+                    <a href="about" class="">ABOUT US</a>
                 </div>
             </div>
         </div>

@@ -3,7 +3,7 @@
     <div class="wrapper">
         <!-- Header Area Start -->
         <header class="header-portion">
-            <!-- Top bar start -->
+            @include('layouts.topbar') 
             <!-- Main navigation start -->
             @include('layouts.menu')
             <!-- Main navigation end -->
