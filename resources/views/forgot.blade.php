@@ -65,27 +65,23 @@
                 <img src="assets/images/logo-3.png" alt="" />
                 <div class="row">
                     <div class="input-field col s12">
-                        <input id="first_name1" name="userid" type="text" class="validate">
-                        <label for="first_name1">User ID</label>
+                        <input id="email" name="email" type="email" class="validate">
+                        <label for="email">Email</label>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="input-field col s12">
-                        <input id="last_name" name="password" type="password" class="validate">
-                        <label for="last_name">Password</label>
-                    </div>
-                </div>
+                </div> 
                 <div class="row">
                     <div class="input-field col s12 text-center">
-                        <button class="waves-effect waves-light btn-large btn-log-in " name="submit" type="submit">  Login </button>
+                        <button class="waves-effect waves-light btn-large btn-log-in " name="submit" type="submit">  Submit </button>
                     </div>
-                    <center style="margin: -15px 0px 10px 0px;">
-                        <span>
-                            @if (isset($mess))
-                                echo $mess; 
-                            @endif
-                        </span>
-                    </center>
+                    <div class="input-field col s12">
+                        <center style="margin: -15px 0px 10px 0px;">
+                            <span>
+                                @if (isset($mess))
+                                    echo $mess; 
+                                @endif
+                            </span>
+                        </center>
+                    </div>
                 </div>
                 <a href="forgot" class="for-pass">Forgot Password?</a>
             </form>
