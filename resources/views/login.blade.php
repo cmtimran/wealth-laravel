@@ -6,19 +6,19 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!--== FAV ICON ==-->
-    <link rel="shortcut icon" href="images/fav.ico">
+    <link rel="shortcut icon" href="assets/images/fav.ico">
 
     <!-- GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600|Quicksand:300,400,500" rel="stylesheet">
 
     <!-- FONT-AWESOME ICON CSS -->
-    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
     <!--== ALL CSS FILES ==-->
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/mob.css">
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/materialize.css" />
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/mob.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/css/materialize.css" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -80,15 +80,15 @@
                         <center style="margin: -15px 0px 10px 0px;"><span><?php //if(isset($mess)){ echo $mess; } ?></span></center>
                     </div>
                 </div>
-<!--                <a href="forgot.html" class="for-pass">Forgot Password?</a>-->
+                <a href="forgot" class="for-pass">Forgot Password?</a>
             </form>
         </div>
     </div>
 
     <!--======== SCRIPT FILES =========-->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/materialize.min.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/materialize.min.js"></script>
+    <script src="assets/js/custom.js"></script>
 </body> 
 </html>

@@ -30,6 +30,17 @@ class landinPageController extends Controller
         return view("contact");
     }
 
+    //Login
+    public function loginPage(){
+        return view("login");
+    }
+    public function forgotPage(){
+        return view("forgot");
+    }
+
+    
+
+
 
 
 

@@ -13,7 +13,7 @@ use App\Http\Controllers\landinPageController;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+//Front End/landinPage
 Route::get('/', [landinPageController::class, 'homePage']);
 Route::get('/index', [landinPageController::class, 'homePage']);
 Route::get('/home', [landinPageController::class, 'homePage']);
@@ -29,8 +29,9 @@ Route::get('/our-team', [landinPageController::class, 'teamPage']);
 Route::get('/team', [landinPageController::class, 'teamPage']);
 Route::get('/contact', [landinPageController::class, 'contactPage']);
 
-
-
+//Login Page
+Route::get('/login', [landinPageController::class, 'loginpage']);
+Route::get('/forgot', [landinPageController::class, 'forgotPage']);
 
 
 
